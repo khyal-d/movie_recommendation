@@ -27,7 +27,7 @@ This project is a Movie Recommendation Website designed to suggest five movies s
 - First, clone the GitHub repository to their local machine using the following command:
 
 ```bash
-  git clone https://github.com/Pradipram/movie-recommendation.git
+  git clone https://github.com/khyal-d/movie_recommendation.git
 ```
 ### 2. Navigate to the Project Directory
 - Move into the project directory
